@@ -1,5 +1,9 @@
 # Drum-Kit
 
+#output
+
+![Screenshot (14)](https://github.com/saurabhalagdeve/Drum-Kit/assets/127332934/c46b0107-8bd9-4b26-9f64-e5d4420c341e)
+
 [Try Drum-Kit 👈 👈 👈 ](https://saurabhalagdeve.github.io/Drum-Kit/)
 
 Welcome to the Drum Kit repository! This project allows you to play the drums right in your browser using your keyboard or by clicking on the drum buttons.
@@ -49,9 +53,6 @@ The visuals and appearance of the Drum Kit have been designed with CSS. The `sty
 The drum buttons also have unique background images associated with their respective sounds.
 
 ---
-#output
-
-![Screenshot (14)](https://github.com/saurabhalagdeve/Drum-Kit/assets/127332934/c46b0107-8bd9-4b26-9f64-e5d4420c341e)
 
 [Try Drum-Kit 👈 👈 👈 ](https://saurabhalagdeve.github.io/Drum-Kit/)
 
